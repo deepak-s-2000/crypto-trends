@@ -1,0 +1,11 @@
+{
+    "jobs":[
+        {
+            "api": "/schedule/save-ticker",
+            "method": "POST",
+            "queryParams":{},
+            "payload":{},
+            "headers":{}
+        }
+    ]
+}
